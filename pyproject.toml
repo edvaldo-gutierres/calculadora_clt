@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "calculadora-clt"
+version = "0.1.0"
+description = ""
+authors = ["Edvaldo Gutierres <edvaldo_gutierres@yahoo.com.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+flet = "^0.27.5"
+pre-commit = "^4.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
