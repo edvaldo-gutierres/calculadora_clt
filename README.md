@@ -2,6 +2,7 @@
 
 Este projeto é uma aplicação interativa desenvolvida em **Python** utilizando a biblioteca **Flet**, que permite calcular os descontos de **INSS e IRRF** sobre um salário bruto informado pelo usuário.
 
+
 ## 🔧 Tecnologias Utilizadas
 
 <p align="left">
@@ -81,6 +82,7 @@ calculadora_clt/
    - **Valor do IRRF**
    - **Salário Líquido**
    - **Memória de Cálculo detalhada**
-
+   
+![alt text](image.png)
 ---
 👨‍💻 Desenvolvido por [Edvaldo Gutierres](https://github.com/edvaldo-gutierres)
